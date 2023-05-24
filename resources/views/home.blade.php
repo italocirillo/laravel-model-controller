@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <h1>ciao mod</h1>
+    <h1>{{ $movies }}</h1>
 </body>
 
 </html>
